@@ -41,9 +41,6 @@ Grafana · Azure DevOps · Git · GitHub · Postman
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn URL here
-
-
 📫 Connect With Me
 https://www.linkedin.com/in/rasha-alharthi/
 
